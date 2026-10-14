@@ -1,7 +1,7 @@
 ## Landform-drafter
 
 A Rhino/Grasshopper Python component that builds a classified landform model from site curves. Give it a site boundary, ridge lines, and pathway and zone outlines at their intended elevations. It returns a terrain mesh, a primary path mesh, and individual patch surfaces for secondary, tertiary, and edge pathways and programmed zones. Everything updates live as the input curves change.
-
+<img width="2440" height="1017" alt="image" src="https://github.com/user-attachments/assets/7db172d0-63ba-4814-b68d-6020d5523520" />
 
 ## Why this exists
 
